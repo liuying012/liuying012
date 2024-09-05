@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌟 哈喽，我是102202112刘莹
 
-<!--
-**liuying012/liuying012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 **From**: 数据科学与大数据技术（这个专业名字真的很长！）
 
-Here are some ideas to get you started:
+## 📚 专业知识及能力：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+作为一名大数据专业的学生，我学过hadoop、spark等大数据处理工具（这些比较感兴趣也比较熟悉），还有很多种编程语言，包括但不限于C语言、Python、Java（现在还是理论大于实践，对于编程语言实践的还是比较少，我非常明白实践对于掌握一种语言的重要性，所以这学期我会多多上手写代码。）
+
+## 💡 感兴趣的技术方向：
+
+- 📊 数据分析
+- 🛠️ 软件工程
+
+## 🚀 兴趣爱好
+
+吃喝玩乐样样都喜欢，喜欢阅读文学作品，喜欢听歌（喜欢周杰伦！）
+
+## 🎯 未来三年的目标：
+
+首先肯定是好好学习，天天向上，然后感觉自己现在的专业能力并不足以大学毕业后就工作，应该还会再熬几年然后出去嚯嚯别人。
